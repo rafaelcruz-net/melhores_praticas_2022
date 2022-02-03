@@ -1,0 +1,16 @@
+C:\Projetos\infnet\MelhoresPraticas\bin\Debug\net5.0\MelhoresPraticas.exe
+C:\Projetos\infnet\MelhoresPraticas\bin\Debug\net5.0\MelhoresPraticas.deps.json
+C:\Projetos\infnet\MelhoresPraticas\bin\Debug\net5.0\MelhoresPraticas.runtimeconfig.json
+C:\Projetos\infnet\MelhoresPraticas\bin\Debug\net5.0\MelhoresPraticas.runtimeconfig.dev.json
+C:\Projetos\infnet\MelhoresPraticas\bin\Debug\net5.0\MelhoresPraticas.dll
+C:\Projetos\infnet\MelhoresPraticas\bin\Debug\net5.0\ref\MelhoresPraticas.dll
+C:\Projetos\infnet\MelhoresPraticas\bin\Debug\net5.0\MelhoresPraticas.pdb
+C:\Projetos\infnet\MelhoresPraticas\obj\Debug\net5.0\MelhoresPraticas.csprojAssemblyReference.cache
+C:\Projetos\infnet\MelhoresPraticas\obj\Debug\net5.0\MelhoresPraticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\infnet\MelhoresPraticas\obj\Debug\net5.0\MelhoresPraticas.AssemblyInfoInputs.cache
+C:\Projetos\infnet\MelhoresPraticas\obj\Debug\net5.0\MelhoresPraticas.AssemblyInfo.cs
+C:\Projetos\infnet\MelhoresPraticas\obj\Debug\net5.0\MelhoresPraticas.csproj.CoreCompileInputs.cache
+C:\Projetos\infnet\MelhoresPraticas\obj\Debug\net5.0\MelhoresPraticas.dll
+C:\Projetos\infnet\MelhoresPraticas\obj\Debug\net5.0\ref\MelhoresPraticas.dll
+C:\Projetos\infnet\MelhoresPraticas\obj\Debug\net5.0\MelhoresPraticas.pdb
+C:\Projetos\infnet\MelhoresPraticas\obj\Debug\net5.0\MelhoresPraticas.genruntimeconfig.cache
