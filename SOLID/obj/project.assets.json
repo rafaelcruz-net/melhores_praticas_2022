@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\infnet\\MelhoresPraticas\\MelhoresPraticas.csproj",
+      "projectUniqueName": "C:\\Projetos\\infnet\\MelhoresPraticas\\Solid\\MelhoresPraticas.csproj",
       "projectName": "MelhoresPraticas",
-      "projectPath": "C:\\Projetos\\infnet\\MelhoresPraticas\\MelhoresPraticas.csproj",
+      "projectPath": "C:\\Projetos\\infnet\\MelhoresPraticas\\Solid\\MelhoresPraticas.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\infnet\\MelhoresPraticas\\obj\\",
+      "outputPath": "C:\\Projetos\\infnet\\MelhoresPraticas\\Solid\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
