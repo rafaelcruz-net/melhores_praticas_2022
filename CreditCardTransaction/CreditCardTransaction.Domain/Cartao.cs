@@ -8,11 +8,13 @@ namespace CreditCardTransaction.Domain
 {
     public class Cartao
     {
-        public int Id { get; set; } 
+        public Guid Id { get; set; } 
         public string Numero { get; set; }
         public bool Ativo { get; set; } 
         public Decimal Limite { get; set; }
 
+        public Bandeira Bandeira { get; set; }
+        
 
         public Guid Autorizar(Transacao transacao)
         {
@@ -32,5 +34,13 @@ namespace CreditCardTransaction.Domain
         }
 
 
+    }
+
+    public enum Bandeira
+    {
+        AMEX = 1,
+        VISA = 2,
+        MASTERCARD = 3,
+        OUTROS = 4
     }
 }

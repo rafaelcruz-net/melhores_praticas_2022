@@ -1,0 +1,5 @@
+C:\Projetos\infnet\MelhoresPraticas\Solid\CreditCardTransaction\CreditCardTransaction.Console\obj\Debug\net6.0\CreditCardTransaction.Console.csproj.AssemblyReference.cache
+C:\Projetos\infnet\MelhoresPraticas\Solid\CreditCardTransaction\CreditCardTransaction.Console\obj\Debug\net6.0\CreditCardTransaction.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\infnet\MelhoresPraticas\Solid\CreditCardTransaction\CreditCardTransaction.Console\obj\Debug\net6.0\CreditCardTransaction.Console.AssemblyInfoInputs.cache
+C:\Projetos\infnet\MelhoresPraticas\Solid\CreditCardTransaction\CreditCardTransaction.Console\obj\Debug\net6.0\CreditCardTransaction.Console.AssemblyInfo.cs
+C:\Projetos\infnet\MelhoresPraticas\Solid\CreditCardTransaction\CreditCardTransaction.Console\obj\Debug\net6.0\CreditCardTransaction.Console.csproj.CoreCompileInputs.cache

@@ -13,7 +13,6 @@ namespace CreditCardTransaction.Domain
         public List<Transacao> Transacoes { get; set; }
         public List<Cartao> Cartoes { get; set; }
 
-
         public Transacao RealizarCompra(List<ItemProduto> itens, Cartao cartao)
         {
             if (Cartoes.Any(x => x.Id == cartao.Id) == false)
