@@ -38,7 +38,5 @@ public class Program
         var cartao2 = cartaoRepository.ObterPorCriterio(CartaoSpecification.GetCartaoPorBandeiraEValor(Bandeira.AMEX, 1_000_000));
 
 
-
-
     }
 }

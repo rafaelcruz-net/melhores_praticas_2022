@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "rRWCcggB/cwSHsrzy+UUZe4fuwUD/RW1wNfPe1wxE1NuOYgrMfW9cn7AoVMYsuaKZRIScjcdq6iEDbPfrFRwUA==",
+  "dgSpecHash": "y2E1jZDRQv/2W6tKv8EMoN02WNFCTSH9bSr+7aaIcSS9vfCLqrFA5jW7Wz2Pjr6wH8g503jaUyVXkTyFsJwofA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\infnet\\MelhoresPraticas\\Solid\\CreditCardTransaction\\CreditCardTransaction.AppConsole\\CreditCardTransaction.AppConsole.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0-preview.1.22076.6\\microsoft.data.sqlite.core.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\sqlitepclraw.core\\2.0.7\\sqlitepclraw.core.2.0.7.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
   "logs": []
 }

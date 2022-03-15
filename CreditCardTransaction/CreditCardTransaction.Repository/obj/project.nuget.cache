@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "eNLwPL3g96m1yjGSsh+0j3Qjja9sm6nOFs2EZ1F5JxCOyGdu3MzbjPJFt7OFoE5Z8c+LXx034NH6OWFwo82IvQ==",
+  "dgSpecHash": "1L8zqU0hbMoAAiD6WT5E3tKNX4EUOL/Eti3VgkURh5y/HidlhSx7vf3O0kLvvh7Uk0RFKbG6TdFY2aXybKdqdA==",
   "success": true,
   "projectFilePath": "C:\\Projetos\\infnet\\MelhoresPraticas\\Solid\\CreditCardTransaction\\CreditCardTransaction.Repository\\CreditCardTransaction.Repository.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0-preview.1.22076.6\\microsoft.data.sqlite.core.7.0.0-preview.1.22076.6.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\sqlitepclraw.core\\2.0.7\\sqlitepclraw.core.2.0.7.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }

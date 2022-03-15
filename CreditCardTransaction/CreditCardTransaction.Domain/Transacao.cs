@@ -8,6 +8,18 @@ namespace CreditCardTransaction.Domain
 {
     public class Transacao
     {
+        public Transacao()
+        {
+            this.Itens = new List<ItemProduto>(); 
+        }
+
+        public Transacao(Cartao cartao) : this()
+        {
+            this.Cartao = cartao;
+        }
+
+
+
         public Guid Id { get; set; }
 
         public List<ItemProduto> Itens { get; set; }
